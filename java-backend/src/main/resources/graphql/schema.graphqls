@@ -1,0 +1,10 @@
+type Doctor {
+  name: String
+  specialty: String
+  hospitalAddress: String
+  zipCode: String
+}
+
+type Query {
+  searchDoctors(name: String, zipCode: String): [Doctor]
+}

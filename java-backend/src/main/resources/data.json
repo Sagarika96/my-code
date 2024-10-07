@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Dr. John Smith",
+      "specialty": "Cardiology",
+      "hospitalAddress": "123 Heart St, NY",
+      "zipCode": "10001"
+    },
+    {
+      "name": "Dr. Jane Doe",
+      "specialty": "Dermatology",
+      "hospitalAddress": "456 Skin Rd, NY",
+      "zipCode": "10002"
+    }
+  ]
+  
